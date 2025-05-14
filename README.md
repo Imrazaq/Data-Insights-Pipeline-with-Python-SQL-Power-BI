@@ -25,8 +25,6 @@ This article is ideal for aspiring data engineers who want to build an end-to-en
 
 ‣ CSV file as data source
 
-## Conclusion
-
 In this article, I have built an end-to-end ETL process on an e-commerce dataset. We extracted data with Python, cleaned it, loaded it into SQL Server, and then created our dimension and fact tables to make it analyzable.ETL processes are one of the cornerstones of the data world. 
 
 
